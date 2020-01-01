@@ -1,0 +1,2 @@
+# bcore
+Accounting AI  
